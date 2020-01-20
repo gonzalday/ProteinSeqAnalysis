@@ -207,7 +207,6 @@ def genbanks(files):
             else:
                 j+=1
         i+=1
-    print(files)
 
     # If any of them is not found, give the chance to try again.
     if errors != []:
