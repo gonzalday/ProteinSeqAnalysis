@@ -19,6 +19,6 @@ This program recieves as arguments the names of the following files:
 
 ## Oputput
 The program will create three folders:
-- __log__: Containing the log files of the different runs.
-- __data__: Containing FASTA files with the sequences used on each run.
-- __results__: With three subdirectories, where the __blastp__, __muscle__ and __prosite search__ result files will be stored.
+- **log**: Containing the log files of the different runs.
+- **data**: Containing FASTA files with the sequences used on each run.
+- **results**: With three subdirectories, where the __blastp__, __muscle__ and __prosite search__ result files will be stored.
