@@ -4,7 +4,7 @@ A python-based protein sequence analysis tool for unix command line. This progra
 Multiple querys (on multifasta file) and multiple GenBank files usage supported.
 
 ## Requirements
-This program requires Blastp, Muscle, Biopython and Matplotlib.
+This program requires Python 3.x, Blastp, Muscle, Biopython and Matplotlib.
 
 ## Usage
 Install the program cloning the package from this GitHub repository, which contains all the program modules. Then, locate the program folder and type on the command line, for example:
