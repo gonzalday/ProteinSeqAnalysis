@@ -11,6 +11,7 @@ This program requires Python 3.x, Blastp, Muscle, Biopython and Matplotlib.
 
 ## Usage
 Install the program cloning the package from this GitHub repository, which contains all the program modules. Then, locate the program folder, move there the files you'll want to analyze and type on the command line, for example:
+
 ```python main.py -q query.fasta -g gengenbank.gbff.txt```
 
 ## Input files
