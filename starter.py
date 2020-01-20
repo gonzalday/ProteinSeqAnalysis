@@ -76,7 +76,8 @@ def querys(fasta,output):
         selection = input("Try again: T | Exit: any other key\n")
         if selection.upper() == "T":
             new = input("> Name of FASTA file containing the query(s): ")
-            querys(new,output)
+            nquerys = querys(new,output)
+            return nquerys
         else:
             exit()
     else:
