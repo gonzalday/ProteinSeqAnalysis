@@ -8,7 +8,7 @@ A python-based protein sequence analysis tool for unix command line. This progra
 Multiple querys (on multifasta file) and multiple GenBank files usage supported.
 
 ## Requirements
-This program requires Python 3.x, Blastp, Muscle, Biopython and Matplotlib.
+This program requires Python 3.x, Blastp, Muscle, Biopython and Matplotlib. Also, it needs the prosite.dat file from Prosite, which you'll have to download from the Prosite web, and locate it on the program folder.
 
 ## Usage
 Install the program cloning the package from this GitHub repository, which contains all the program modules. Then, locate the program folder, move there the files you'll want to analyze and type on the command line, for example:
