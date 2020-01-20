@@ -16,3 +16,7 @@ This program recieves as arguments the names of the following files:
 - One or several GenBank files, to get the protein sequences to compare your query to.
 
 ## Oputput
+The program will create three folders:
+- __log__: Containing the log files of the different runs.
+- __data__: Containing FASTA files with the sequences used on each run.
+- __results__: With three subdirectories, where the __blastp__, __muscle__ and __prosite search__ result files will be stored.
