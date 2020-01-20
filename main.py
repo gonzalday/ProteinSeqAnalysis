@@ -1,4 +1,4 @@
-# Program created by Raquel González Alday - 2020
+# Program created by Raquel Gonzalez Alday - 2020
 
 # ------------------------------------------------
 #                   MODULE IMPORT
