@@ -1,4 +1,4 @@
-![logo](logo.png)
+![alt text](logo.png)
 
 # ProteinSeqAnalysis
 A python-based protein sequence analysis tool for unix command line. This program, given one query, searchs for homologues on given GenBank files using Blastp. After this, uses Muscle to make an aligment using the query and hit sequences, and also builds a neighbor-joining phylogenetic tree. Last, but not least, searchs for protein domains of interest using the Prosite database.
